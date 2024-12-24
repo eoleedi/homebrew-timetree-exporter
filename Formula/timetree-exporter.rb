@@ -4,6 +4,7 @@ class TimetreeExporter < Formula
     desc "Tool for exporting TimeTree Calendar and converting to iCal format (.ics)"
     homepage "https://github.com/eoleedi/TimeTree-Exporter"
     url "https://files.pythonhosted.org/packages/3b/da/03876c409c98ef6a8e32b6f04370adc473ef9b1992adf139d5d1248c5588/timetree_exporter-0.4.1.tar.gz"
+    version "0.4.1"
     sha256 "638d88bd1ccfe3c59c209eca9a9eb16ad9175bbaa6e6a212e05e43ca1dcb3879"
     license "MIT"
 
